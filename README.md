@@ -27,4 +27,4 @@
 
 ## Acknowldgements
 
-|This package was created as part of the EE/ME 477 - MME 577 Mini-course in Programming and Simulating Robots. Taught by Dr. Rico Picone using the text *Programming Robots with ROS* by Morgan Quigley, Brian Gerkey, & William D. Smart and *\_Robotics: programming and simulation*(http://ricopic.one/robotics/) by Dr. Rico Picone.|
+|This package was created as part of the Saint Martin's University Spring 2020 EE/ME 477 - MME 577 Mini-course in Programming and Simulating Robots. Taught by Dr. Rico Picone using the text *Programming Robots with ROS* by Morgan Quigley, Brian Gerkey, & William D. Smart and *\_Robotics: programming and simulation*(http://ricopic.one/robotics/) by Dr. Rico Picone.|
