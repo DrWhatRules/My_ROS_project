@@ -1,4 +1,4 @@
-# ROS package: |ROS Project|
+# ROS package: |My_ROS_project|
 
 |This repository contains several sections that each cover a different theme in the Robotic Operating System (ROS)|
 
