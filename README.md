@@ -23,7 +23,7 @@
 |This package contains the following sections:| \
 |my_topics - exploring publishing and subcribing| \
 |my_services - exploring server functions that process an input and return an output| \
-|my_actions - exploring action server and client interaction| \
+|my_actions - exploring action server and client interaction|
 
 ## Acknowldgements
 
